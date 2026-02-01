@@ -1,28 +1,28 @@
 <div align="center">
 
-# 🎮 synapticore.studio
+# 🎬 synapticore.studio
 
-**Game Development & Interactive Experiences**
+**Agentic DCC Pipelines & Interactive AI Experiences**
 
 ---
 
-*From concept to release — powered by AI*
+*AI-driven content creation — from concept to production*
 
 </div>
 
-## 🕹️ Focus Areas
+## 🎯 Focus Areas
 
-- **Godot Engine** - 2D/3D game development with GDScript & C#
-- **Autonomous Game Dev** - AI-assisted development workflows
-- **Web Games** - Browser-based gaming with WebAssembly
-- **XR Experiences** - VR/AR with OpenXR integration
+- **DCC Pipelines** - Blender, Houdini, Maya → Godot workflows
+- **Virtual Production** - LED walls, camera tracking, color science
+- **Agentic Workflows** - AI-assisted content creation & automation
+- **Interactive Experiences** - Real-time 3D with Godot Engine
 
 ## 🛠️ Core Technologies
 
 ![Godot](https://img.shields.io/badge/Godot_4.6-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godot-engine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![USD](https://img.shields.io/badge/OpenUSD-005A9C?style=flat-square&logo=pixar&logoColor=white)
 ![OpenXR](https://img.shields.io/badge/OpenXR-0082FC?style=flat-square&logo=openxr&logoColor=white)
 
 ## 📦 Resources
