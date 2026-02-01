@@ -20,6 +20,7 @@
 ## 🛠️ Core Technologies
 
 ![Godot](https://img.shields.io/badge/Godot_4.6-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![USD](https://img.shields.io/badge/OpenUSD-005A9C?style=flat-square&logo=pixar&logoColor=white)
