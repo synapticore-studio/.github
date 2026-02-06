@@ -44,15 +44,6 @@
 | [NNERuntimeOpenVINO](https://github.com/synapticore-studio/NNERuntimeOpenVINO) | Intel OpenVINO plugin for Unreal Engine NNE runtime |
 | [StreetMap](https://github.com/synapticore-studio/StreetMap) | Import OpenStreetMap data into Unreal Engine |
 
-## Ecosystem
-
-Part of the **synapticore** ecosystem: `Lab forscht → Dev baut → Studio produziert`
-
-| | |
-|---|---|
-| [agentic-dev.io](https://agentic-dev.io) | Agentic Systems & AI Development |
-| [synapticore.io](https://synapticore.io) | Scientific Computing & Spatial Intelligence |
-
 ---
 
 <sub>Maintained by [@bjoernbethge](https://github.com/bjoernbethge)</sub>
